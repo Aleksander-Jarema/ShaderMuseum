@@ -6,4 +6,4 @@ A stylized material library demonstrating shader techniques: world position blen
 
 [Watch Demo](https://www.youtube.com/watch?v=nM8JP8WUXRo&ab_channel=AleksanderJarema)
 
-[Lava Material](Screens/Lava Material.png)
+![Lava Material](Screens/Lava Material.png)
