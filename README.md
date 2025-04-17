@@ -1,2 +1,2 @@
-# ShaderMuseum
-Shader Museum is a visual showcase of materials created in Unreal Engine 5. Each material demonstrates different shader techniques such as masking, UV manipulation, world position blending, and PBR workflows.
+# Shader Museum – Material Showcase in Unreal Engine 5
+A stylized material library demonstrating advanced shader techniques: world position blending, custom nodes, and dynamic masks. Built for real-time environments.
